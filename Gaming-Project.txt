@@ -1,0 +1,30 @@
+main header :
+	heading: "Experience Gaming Like Never Before – All Year Long!"
+	para: 	Dive into a full year of unparalleled gaming excitement with GameOn 365. Our exclusive subscription grants you unlimited access to a vast library of the latest and greatest games. Whether you're a casual gamer or a dedicated enthusiast, GameOn 365 ensures endless hours of fun and adventure. Join us today and elevate your gaming experience!
+	button: Start gaming now  |  Learn more
+	mention: "Join Over 25,000+ Happy Gamers!"
+
+Featured in:
+	IGN logo
+	GameSpot logo
+	Polygon logo
+	Kotaku logo
+	Eurogamer logo
+
+
+HOW IT WORKS
+Your ultimate gaming experience in 3 simple steps
+
+01
+Tell us what games you like (and what you don’t)
+Never waste time deciding what to play next! GameOn 365 AI will create a 100% personalized gaming playlist just for you. It ensures you always have fresh and exciting games to enjoy, no matter your gaming preferences!
+
+
+02
+Approve your weekly game plan
+Once per week, approve the game plan generated for you by GameOn 365 AI. You can swap games, add new ones, or even customize your own gaming schedule.
+
+03
+Start playing at your convenience
+Access your selected games from our platform at any time that suits you best. With GameOn 365, you have the freedom to game whenever and wherever you want, with the latest titles at your fingertips!
+

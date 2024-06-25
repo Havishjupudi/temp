@@ -1,0 +1,188 @@
+@media (max-width: 84em) {
+
+    .games-gallery {
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2rem;
+    }
+
+    .item-lst {
+        display: none;
+    }
+
+    .link-middle-sec {
+        gap: 3.2rem;
+    }
+
+    .grid--3-col {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+@media (max-width: 75em) {
+    html {
+        font-size: 52.25%;
+    }
+
+    .heading-common {
+        font-size: 3.6rem;
+    }
+
+    body h3 {
+        font-size: 2.4rem;
+    }
+
+    .grid {
+        column-gap: 4.8rem;
+        row-gap: 6.4rem; 
+    }
+}
+
+@media (max-width: 59em) {
+    html {
+        font-size: 46%;
+    }
+
+    .gamers {
+        margin-top: 3.8rem;
+    }
+
+    .feature-in-container img {
+        height: 2.4rem;
+    }
+
+    .section-testimonials {
+        grid-template-columns: 1fr;
+    }
+
+    .games-gallery {
+        grid-template-columns: repeat(5, 1fr);
+    }
+
+    .item-lst {
+        display: block;
+    }
+
+    .heading-common {
+        margin-bottom: 6.2rem;
+    }
+
+
+    
+}
+
+@media (max-width: 48.5em) {
+    html {
+        font-size: 42%;
+    }
+
+    .heading-common {
+        font-size: 3.2rem;
+    }
+
+    .grid-subscription {
+        grid-template-columns: repeat(1, 1fr);
+        align-items: center;
+    }
+
+    .subscriptions-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 20px;
+      }
+
+    .subscription-card {
+        width: 44rem;
+    }
+
+    .heading-common {
+        margin-bottom: 4.2rem;
+    }
+
+    .link-middle-sec{
+        display: none;
+    }
+    
+}
+
+@media (max-width: 34em) {
+    .heading-common {
+        font-size: 3.2rem;
+    }
+
+    .hero-box {
+        top: 50;
+        bottom: 50;
+        transform: translate(-45%,-70%);
+    }
+
+    .main-title-hero{
+        font-size: 3.5rem;
+    }
+
+    .sub-content-hero {
+        font-size: 1.6rem;
+    }
+
+    .gamers {
+        width: 50rem;
+    }
+
+    .gamers p {
+        font-size: 1.6rem;
+    }
+
+    .feature-in-container img {
+        height: 1.6rem;
+    }
+
+    .feature-in-container .alter-img {
+        height: 3.2rem;
+    }
+    .feature-in-container {
+        padding-bottom: 2rem;
+    }
+
+    .grid--3-col {
+        grid-template-columns: 1fr;
+        gap: 2.4rem;
+    }
+
+    .testimonials {
+        grid-template-columns: 1fr;
+        gap: 2.4rem;
+    }
+
+    .games-gallery {
+        grid-template-columns: repeat(3, 1fr);
+        gap: 1.2rem;
+        width: 100%;
+    }
+
+    .tags {
+        font-size: 1.4rem;
+    }
+
+    .game-title {
+        font-size: 2.8rem;
+    }
+    .game-details {
+        font-size: 1.8rem;
+        line-height: 2.1rem;
+    }
+
+    .footer-bottom p{
+        font-size: 1.6rem;
+        padding: 1rem;
+        margin: 0;
+    }
+
+    .subscription-card p {
+        font-size: 1.8rem;
+        text-align: left;
+        line-height: 1.1;
+    }
+}
